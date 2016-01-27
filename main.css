@@ -1,0 +1,27 @@
+div { 
+	width: 180px;
+	height: 130px;
+	border: 15px yellow solid;
+	background: white;
+	margin: 10px 10px 10px 10px;
+	}
+
+.texto {
+	text-align:center;
+	font-size: 8px;
+	padding: 20px 30px 10px 25px;
+ 	}
+/*--------------SEGUNDO RECUADRO--------------------------------*/
+#boxdos {
+	width: 180px;
+	height: 130px;
+	border: 15px solid yellow;
+	margin: 10px 100px 200px 350px;
+	
+	}
+
+.textodos {
+	text-align:left;
+	font-size: 8px;
+	padding: 20px 20px 10px 30px;
+	}
