@@ -1,27 +1,31 @@
 div { 
-	width: 180px;
+	width: 200px;
 	height: 130px;
-	border: 15px yellow solid;
-	background: white;
+	border: 15px double #000000;
+	background-image: url(hojas.jpg);
+	border-radius: 90px 30px 100px 30px;
 	margin: 10px 10px 10px 10px;
 	}
 
 .texto {
 	text-align:center;
-	font-size: 8px;
-	padding: 20px 30px 10px 25px;
+	font-size: 11px;
+	padding: 8px 20px 12px 25px;
+	color: #380008;
  	}
 /*--------------SEGUNDO RECUADRO--------------------------------*/
 #boxdos {
 	width: 180px;
 	height: 130px;
-	border: 15px solid yellow;
+	border: 10px groove #82CCFB;
+	background-image: url(burbujas.jpg);
 	margin: 10px 100px 200px 350px;
-	
+	border-radius: 200px 20px 200px 200px;
 	}
 
 .textodos {
 	text-align:left;
-	font-size: 8px;
-	padding: 20px 20px 10px 30px;
+	font-size: 10px;
+	padding: 5px 20px 10px 30px;
+	color: white;
 	}
